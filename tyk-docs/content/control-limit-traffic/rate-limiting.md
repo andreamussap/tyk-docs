@@ -68,7 +68,7 @@ Not yet, though IP-based rate limiting is possible using custom pre-processor mi
 
 3.  From the **Rate Limit** section, select the **rate** (number of requests) and the **per** period. If the period is not available in the drop down, you can set it to a custom value using the Dashboard REST API.
     
-![Tyk API Gateway Rate Limits][1]
+  ![Tyk API Gateway Rate Limits][1]
 
 4.  Save the token, it will be created instantly.
 
