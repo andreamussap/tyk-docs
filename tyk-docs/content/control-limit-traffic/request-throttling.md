@@ -27,7 +27,7 @@ Yes, you can. If you set `throttle_interval` and `throttle_retry_limit` values t
 
 3.  From the **Throttling** section, select the **Throttle interval** and the **Throttle retry limit** values.
     
-![Tyk API Gateway Request Throttling][1]
+    ![Tyk API Gateway Request Throttling][1]
 
 4.  Save the token, it will be created instantly.
 
