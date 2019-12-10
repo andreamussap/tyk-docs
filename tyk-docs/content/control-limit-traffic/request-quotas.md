@@ -41,9 +41,9 @@ Yes you can - to disable the quota middleware in an API definition, select the *
 
 5.  The **Remaining requests for period** field displays how many more times the API can be requested for the quota set.
     
-![Tyk API Gateway Quotas][1]
+    ![Tyk API Gateway Quotas][1]
 
-5.  Save the token, it will be created instantly.
+6.  Save the token, it will be created instantly.
 
 ## <a name="with-session-object"></a> Set a Quota with the Session Object
 
